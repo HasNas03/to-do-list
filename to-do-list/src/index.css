@@ -23,6 +23,10 @@ button{
   transition: background-color 0.5 ease;
 }
 
+.move-button{
+  background-color: rgb(177, 177, 177);
+}
+
 .add-button{
   transition: 0.1s ease;
   background-color: rgb(42,187,127); /* 500 */ }
